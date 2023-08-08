@@ -1,5 +1,7 @@
 # Store Monitoring
 
+### Link to video: https://www.loom.com/share/1d10fefc82da403789a63009f5038b57?sid=a10258e6-8a6d-4019-a46f-186d1728e141
+
 ## Overview
 
 This project is designed to track and analyze the uptime and downtime of various stores within their business hours. The generated report includes the uptime and downtime statistics for the last hour, day, and week, and provides two main API endpoints: triggering the report and fetching an existing report.
