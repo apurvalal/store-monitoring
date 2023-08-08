@@ -1,0 +1,4 @@
+./pycache
+application.log
+gcp_private_key.json
+.env
